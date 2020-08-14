@@ -1,2 +1,2 @@
-const num = 2000
-const divide = num.map(x => x / 100);
+let divide = (num1, num2) => num1 / num2;
+divide(2000,100);
