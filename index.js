@@ -1,5 +1,5 @@
 function divide() {
-  2000 / 100
+  return 2000 / 100
 }
 
 let square = (x) => x * x;
